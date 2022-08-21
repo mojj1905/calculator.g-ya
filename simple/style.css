@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    background-image: url(https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-javascript/sta-je-javascript.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.display{
+    background-color: gray;
+}
+h1{
+
+    font-size: 45px;
+}
+input{
+    width: 75px;
+    height: 50px;   
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    border-style: none;
+}
+.btn:hover{
+    background-color: skyblue;
+    cursor: pointer;
+}
